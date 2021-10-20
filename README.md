@@ -1,4 +1,4 @@
-[![Anurnomeru's GitHub stats](https://github-readme-stats.vercel.app/api?username=anurnomeru&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurnomeru's GitHub stats](https://github-readme-stats.vercel.app/api?username=anurnomeru&hide=issues&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
